@@ -388,7 +388,7 @@ The `.env` file should be included in `.gitignore`.
 
 ## 1. Clone the Repository
 
-    git clone <your-repository-url>
+    git clone https://github.com/saif-mohammed9505/InsureLLM-RAG
 
     cd InsureLLM-RAG
 
